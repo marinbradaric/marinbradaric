@@ -10,9 +10,9 @@ Welcome to my GitHub profile!
 - [ChessEngine](https://github.com/marinbradaric/ChessEngine) - A chess engine using convolutional neural networks (CNN) to predict the next best move. 
 
 # 💻 Skills
-- Programming languages: Python, C, JavaScript, Java, SQL
-- Frameworks and libraries: PyTorch, NumPy, Pandas, React, Bootstrap, Spring Boot
-- Database technologies: SQL Server, Oracle Cloud, MySQL
+- Programming languages: Python, C, JavaScript, TypeScript, Java, SQL
+- Frameworks and libraries: PyTorch, Angular, Spring Boot
+- Database technologies: SQL Server, Oracle Cloud, MySQL, SQLite
 - Development tools: Git, Docker
 
 # 📫 Connect with me
